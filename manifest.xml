@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.1</ApiVersion>
+  <Id>com.digibitsy.breakmapper</Id>
+  <Version>0.1</Version>
+  <Author>Digibitsy (based on unlessgames)</Author>
+  <Name>breakmapper</Name>
+  <Category>Workflow</Category>
+  <Description>
+    Generate  single velocity #1 to #127 stacked keyzone for all Breaks 0-1536.  Implements a dialog to generate stacked keyzones for multiple samples distributed along the velocity range or octaves etc. Based on "unlessgames' zoner: https://gitlab.com/unlessgames/unless_renoise"
+  </Description>
+  <Homepage>https://alpha.digibitsymicronanocyberweb.com</Homepage>
+</RenoiseScriptingTool>
